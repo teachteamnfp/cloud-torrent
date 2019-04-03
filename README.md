@@ -1,4 +1,8 @@
-<img src="https://user-images.githubusercontent.com/633843/32198822-e59a0fc4-be1d-11e7-9b92-03ce17ba05ba.png" alt="screenshot"/>
+
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
 
 **Cloud torrent** is a a self-hosted remote torrent client, written in Go (golang). You start torrents remotely, which are downloaded as sets of files on the local disk of the server, which are then retrievable or streamable via HTTP.
 
@@ -130,6 +134,9 @@ In summary, the core features will be:
 
 Once completed, cloud-torrent will no longer be a simple torrent client and most likely project be renamed.
 
+
+
+
 #### Donate
 
 If you'd like to buy me a coffee or more, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=dev%40jpillora%2ecom&lc=AU&item_name=Open%20Source%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted) or BitCoin `1AxEWoz121JSC3rV8e9MkaN9GAc5Jxvs4`.
@@ -143,3 +150,14 @@ This project is the rewrite of the original [Node version](https://github.com/jp
 Credits to @anacrolix for https://github.com/anacrolix/torrent
 
 Copyright (c) 2017 Jaime Pillora
+
+
+
+
+
+<a href="https://azuredeploy.net/" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+
+
+
